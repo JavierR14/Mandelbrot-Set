@@ -1,7 +1,7 @@
 """
-Mandlebrot
+Mandlebrot Set
 Begin date: April 10th,2014
-USE LEAST AMOUNT OF VARIABLES POSSIBLE
+By: Javier Ruiz-Arduengo
 """
 import pygame
 import sys

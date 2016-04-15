@@ -1,7 +1,6 @@
 Program Description
 =============
-A generation of the Mandelbrot Set in Python through iteration.
-There are two versions: Unoptimized and Optimized
+A generation of the Mandelbrot Set in Python.
 
 How To Run
 =============
